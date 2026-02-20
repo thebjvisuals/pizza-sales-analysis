@@ -48,10 +48,10 @@ These datasets were merged into a single dataframe for analysis.
 
 ## 🔍 Key Insights
 
-- The business generated a total revenue of $___.
-- Peak sales occur during ___ hours.
-- The highest sales day is ___.
-- The most popular pizza is ___.
+- The business generated a total revenue of $817860.0499999999.
+- Peak sales occur during 12 hours.
+- The highest sales day is Friday.
+- The most popular pizza is The Classic Deluxe Pizza.
 - Some pizzas show low demand and may require promotional adjustments.
 
 ---
